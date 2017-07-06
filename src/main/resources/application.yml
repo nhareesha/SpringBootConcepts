@@ -2,6 +2,6 @@ myapp:
    name :"SpringBootTestApplication"
    description :"${myapp.name} is a foundation application"
 test:
-  name:"sirisha"
-  psw:"password"
+  name: "sirisha"
+  psw: "password"
   
