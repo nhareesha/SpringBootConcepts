@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
 @Component
 
 //Addng this enable the mapping of variables of POJO to aplication.properties file
-@ConfigurationProperties(prefix="test",ignoreInvalidFields=true)
+@ConfigurationProperties(prefix="test")
 public class UserDetailsBean {
 	
 	String name;
